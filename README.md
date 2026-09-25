@@ -2,7 +2,7 @@
 
 A native Linux GTK4/Libadwaita phone bridge for handling calls from an iPhone (or Android device) over Bluetooth.
 
-Simultaneously routes regular desktop audio and incoming voice calls into wireless earbuds while feeding a desktop USB microphone into the call.
+Simultaneously routes regular desktop audio and incoming voice calls into wireless earbuds while feeding any microphone into the call.
 
 ## Key Features
 * **GTK4 / Libadwaita Interface:** Modern GNOME styling, dark-theme default, native titlebar drag support.
