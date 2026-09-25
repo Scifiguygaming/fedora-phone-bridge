@@ -1,4 +1,4 @@
-# Fedora Phone Bridge
+# Phone Bridge for Linux
 
 A native Linux GTK4/Libadwaita phone bridge for handling calls from an iPhone (or Android device) over Bluetooth.
 
